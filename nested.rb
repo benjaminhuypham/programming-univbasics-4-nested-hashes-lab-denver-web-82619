@@ -110,8 +110,8 @@ programmer_hash[:alan_kay][:alans_new_info] = programmer_hash[:alan_kay].delete(
 programmer_hash[:alan_kay][:alans_new_info] = "GUI"
 p programmer_hash
      
-     
 end
+
 
 def adding_to_dennis
 	programmer_hash = 
